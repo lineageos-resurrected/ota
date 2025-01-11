@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1736610905,
+      "datetime": 1736615645,
       "filename": "lineage-14.1-20250111-UNOFFICIAL-sf340n.zip",
-      "id": "371gz2a7c8e4ak3tuwxgea0bpiu8ksrg",
+      "id": "9knm0528ukx3macbky5q10chnng0ecpw",
       "romtype": "unofficial",
-      "size": 587524304,
-      "url": "https://sourceforge.net/projects/ivys-unofficial-rom-builds/files/LineageOS-Resurrected%2014.1%20%28Nougat%29/sf340n/lineage-14.1-20250111-UNOFFICIAL-sf340n.zip/download",
+      "size": 587524212,
+      "url": "https://master.dl.sourceforge.net/project/ivys-unofficial-rom-builds/LineageOS-Resurrected%2014.1%20%28Nougat%29/sf340n/lineage-14.1-20250111-UNOFFICIAL-sf340n.zip?viasf=1",
       "version": "14.1"
     }
   ]
